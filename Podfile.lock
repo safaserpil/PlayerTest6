@@ -1,0 +1,15 @@
+PODS:
+  - MobileVLCKit (3.0.2)
+  - ONVIFCamera (1.1.6)
+
+DEPENDENCIES:
+  - MobileVLCKit
+  - ONVIFCamera
+
+SPEC CHECKSUMS:
+  MobileVLCKit: a9e06de53e7a7fd43d7b04bcab4f2e68868f768a
+  ONVIFCamera: bd7230ca9be776682cfa1d8be25ed149f9040af0
+
+PODFILE CHECKSUM: 2b01f7e12d3273edecc52e995fcbcfb0e1279f09
+
+COCOAPODS: 1.4.0
